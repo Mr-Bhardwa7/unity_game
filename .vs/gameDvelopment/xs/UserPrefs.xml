@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{193BB5BD-FC10-9F89-4F3B-1EE23B33C08E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="71" Column="35" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="33" Column="6" />
+      <File FileName="Assets/Scripts/CoinScript.cs" Line="26" Column="33" />
+      <File FileName="Assets/Scripts/CheckpointController.cs" Line="28" Column="2" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="18" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gameDvelopment" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LevelManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="35273822-03d1-46d9-b37b-9d20a5558e01" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
